@@ -21,7 +21,7 @@
 <br>connect to robo 3t or mongodb compass 
 <br>run "npm run dev" on the terminal in the editor
 
-<br><b>Run the following commands in the postman to interact with the api:</b>
+<br><b>Run the above commands in the postman to interact with the api:</b>
 <br>use the above postman link to setup all the commands
 
 <br>Create restaurant: To create a restaurant document with fields: name,address,picture,openinghours 
